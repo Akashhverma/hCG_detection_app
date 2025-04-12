@@ -138,7 +138,7 @@ from qualitative_analysis import qualitative_analysis
 from quantitative_analysis import quantitative_analysis
 
 # ====== Load YOLO Model ======
-MODEL_PATH = r"D:\MUSIC N JOY\zIIT DELHI\Mtech Project\GUI\Trained_model\weights\best.pt"
+MODEL_PATH = r"Trained_model\weights\best.pt"
 try:
     model = YOLO(MODEL_PATH)
 except Exception as e:
