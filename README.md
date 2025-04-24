@@ -80,3 +80,6 @@ https://hcgdetectionapp-jjss2yoggzzurpwnbuoh9w.streamlit.app/
 
 🔗 https://www.linkedin.com/in/akash-verma-525a88145/
 💻 https://github.com/Akashhverma
+
+📄 License
+This project is licensed under the MIT License.
