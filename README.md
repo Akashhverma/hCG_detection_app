@@ -16,16 +16,7 @@ Developed as part of an M.Tech thesis at **IIT Delhi**, the system performs both
 
 ## 🗂️ Project Structure
 
-├── qualitative_analysis.py # Code for generating intensity profiles 
-├── quantitative_analysis.py # Code for predicting hCG concentration 
-├── test.py # Main Streamlit app 
-├── Trained_model/ 
-      │ └── weights/ 
-          │ └── best.pt # YOLOv8 model weights
-├── xgboost_model/ 
-        │ └── xgboost_model.json # Trained XGBoost regressor model 
-├── requirements.txt # Python dependencies 
-└── README.md # Project documentation
+![image](https://github.com/user-attachments/assets/06776ded-d697-415c-bf39-183d171ff097)
 
 ## 🔧 Installation Instructions
 
@@ -76,6 +67,9 @@ Invalid if C-line is missing
 ![Screenshot 2025-03-05 152532](https://github.com/user-attachments/assets/8974cf53-5a0e-4692-9110-41a4fab85513)
 ![Screenshot 2025-04-16 170102](https://github.com/user-attachments/assets/93f3f498-5757-476e-99b2-d86527640620)
 ![Screenshot 2025-03-05 152551](https://github.com/user-attachments/assets/3100bad7-06c1-45e9-9305-edae326ccfdc)
+
+### Streamlit link for app:
+https://hcgdetectionapp-jjss2yoggzzurpwnbuoh9w.streamlit.app/
 
 
 
